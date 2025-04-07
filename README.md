@@ -6,4 +6,4 @@ Este projeto apresenta uma garagem digital com diversos modelos de carros organi
 
 👉 [Clique aqui para acessar o site e explorar a garagem de carros](https://3-garagem-de-carro.vercel.app/)
 
-Ideal para quem gosta de projetos com foco em design de interface, experiência do usuário e exibição de conteúdo visual.
+Ideal para quem gosta de projetos com foco em design de interface, experiência do usuário, exibição de conteúdo visual e, é claro, para os amantes de carros.
